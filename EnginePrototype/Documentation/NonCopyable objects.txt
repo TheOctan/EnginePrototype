@@ -1,0 +1,5 @@
+			NonCopyable	NonMovable
+StackMenu		X
+ResourceHolder		X		X
+StateBase		X
+Game			X		X
